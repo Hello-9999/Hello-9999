@@ -12,7 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hello-9999&theme=dark&hide_border=false)
 <br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-9999&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style={ display:"flex"}>  <div>   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-9999&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  </div>
+
+  <div> [![Hello-9999's GitHub | Dependencies](https://stats.quine.sh/Hello-9999/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hello-9999)</div>
+</div>
+
 
 
 
@@ -24,4 +28,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![Hello-9999's GitHub | Stats](https://stats.quine.sh/Hello-9999/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hello-9999)
