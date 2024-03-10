@@ -22,3 +22,6 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+[![Hello-9999's GitHub | Stats](https://stats.quine.sh/Hello-9999/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hello-9999)
